@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
-*.so
-
 # Distribution / packaging
 .Python
 build/
@@ -127,3 +124,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+
+import cv2
+import numpy as np
+from matplotlib import pyplot as plt 
+#Binary Thresholding
+#Crop Image
+#Edge Detection
+#find contours
+#Sort Contours
