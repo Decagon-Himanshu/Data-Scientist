@@ -50,3 +50,14 @@ for i, ctr in enumerate(sorted_ctrs):
     cv2.rectangle(cropped , (x, y), (x + w, y + h), (150, 0, 255), 2)
 cv2.imshow('marked areas', cropped)
 cv2.waitKey(0)
+
+What is your desired salary
+3.6lpa
+What is your ideal starting date
+1-August-2021
+If you live more than 70 minutes away from the company’s location, are you willing to be relocated to somewhere closer to the company
+Yes
+If you live outside of the country, do you need sponsorship for visa
+Yes
+What is the level of your proficiency in English
+Intermediate
